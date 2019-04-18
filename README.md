@@ -1,2 +1,2 @@
-# popgensim
+# PopGenSim
 Population genetics simulator
